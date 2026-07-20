@@ -1,0 +1,40 @@
+[
+  {"email" : "arunprasadh.s@gmail.com",
+    "password":"Arun@!234",
+    "product" : "ZARA COAT 3",
+    "actualProductName" : "Apple"
+  },
+  {"email" : "arunhandsomebybirth@gmail.com",
+    "password":"Arun@!234",
+    "product" : "ADIDAS ORIGINAL",
+    "actualProductName" : "Orange"
+  },
+  {"email" : "aruntestme@gmail.com",
+    "password":"Arun@!234",
+    "product" : "IPHONE 13 PRO",
+    "actualProductName" : "Banana"
+  },
+
+
+  {
+    "email" : "arunprasadh.s@gmail.com",
+    "password":"ababbbabhff",
+    "expectedMessage" : "Incorrect email or password."
+  },
+  {"email" : "arunhandsomeh@gmail.com",
+    "password":"fgfgf@!234",
+    "expectedMessage" : "Incorrect email or password."
+  },
+  {"email" : "aruntestmeout@gmail.com",
+    "password":"fdgh@!234",
+    "expectedMessage" : "Incorrect email or password."
+  },
+  {"email" : "",
+    "password":"",
+    "expectedMessage" : "*Email is required *Password is required"
+  },
+  {"email" : "sgdsjgsj@687346386",
+    "password":"dfghj@!234",
+    "expectedMessage" : "Incorrect email or password."
+  }
+]
