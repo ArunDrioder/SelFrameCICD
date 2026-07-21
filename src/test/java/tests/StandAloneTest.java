@@ -24,6 +24,8 @@ public class StandAloneTest
 
         String productName = "ADIDAS ORIGINAL";
 
+        //CICD configured successfully.., hey there.., !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
