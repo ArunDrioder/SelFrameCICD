@@ -34,7 +34,7 @@
     "expectedMessage" : "*Email is required *Password is required"
   },
   {"email" : "sgdsjgsj@687346386",
-    "password":"dfghj@!234",
+    "password":"dfghj@!24",
     "expectedMessage" : "Incorrect email or password."
   }
 ]
