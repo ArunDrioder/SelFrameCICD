@@ -29,7 +29,8 @@
     "password":"fdgh@!234",
     "expectedMessage" : "Incorrect email or password."
   },
-  {"email" : "",
+  {
+    "email" : "",
     "password":"",
     "expectedMessage" : "*Email is required *Password is required"
   },
